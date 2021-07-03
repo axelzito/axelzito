@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - -->
-- 📫 How to reach me: axel.ataides@gmail.com
+- 📫 How to reach me: axel.d3v@gmail.com
 - 💼 Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/axel-miguez/">LinkedIn</a>
 <!--
 - 😄 Pronouns: ...
@@ -32,5 +32,5 @@ Here are some ideas to get you started:
     </tr>   
   </table>
 </center>
-
 -->
+
