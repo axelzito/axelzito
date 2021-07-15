@@ -24,10 +24,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
  -->
 
-![Axel's GitHub stats](https://github-readme-stats.vercel.app/api?username=axelzito&count_private=true&show_icons=true&hide=issues,contribs)
+<center>
+  <table>
+    <tr>
+        <td><img width="590px" align="left" src="https://github-readme-stats.vercel.app/api?username=axelzito&count_private=true&show_icons=true&hide=issues,contribs" /></td>
+        <td><img width="470px" align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=axel&layout=compact" /></td>
+    </tr>   
+  </table>
+</center>
+
+
 <!--
 ###
-
+![Axel's GitHub stats](https://github-readme-stats.vercel.app/api?username=axelzito&count_private=true&show_icons=true&hide=issues,contribs)
+[![Axel's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=axel&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <center>
   <table>
@@ -37,5 +47,5 @@ Here are some ideas to get you started:
     </tr>   
   </table>
 </center>
-[![Axel's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=axel)](https://github.com/anuraghazra/github-readme-stats)
+
  -->
