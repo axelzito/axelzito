@@ -24,6 +24,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
  -->
 
+
+
+![Axel's GitHub stats](https://github-readme-stats.vercel.app/api?username=axelzito&count_private=true&show_icons=true&hide=issues,contribs)
+[![Axel's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=axel&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<!--
+###
 <center>
   <table>
     <tr>
@@ -33,9 +41,6 @@ Here are some ideas to get you started:
   </table>
 </center>
 
-
-<!--
-###
 ![Axel's GitHub stats](https://github-readme-stats.vercel.app/api?username=axelzito&count_private=true&show_icons=true&hide=issues,contribs)
 [![Axel's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=axel&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
