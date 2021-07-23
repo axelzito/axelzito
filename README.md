@@ -24,14 +24,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
  -->
 
+[![Axel's GitHub stats](https://github-readme-stats.vercel.app/api?username=axelzito&theme=tokyonight&count_private=true&show_icons=true&hide=issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
+[![Axel's Monst Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=axelzito&count_private=true&layout=compact&theme=tokyonight&hide=javascript,html,java,css,shell,c)](https://github.com/axelzito?tab=repositories)
 
 
-![Axel's GitHub stats](https://github-readme-stats.vercel.app/api?username=axelzito&count_private=true&show_icons=true&hide=issues,contribs)
-[![Axel's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=axel&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
+[![Axel's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=axel&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<img width="280" src="https://i.pinimg.com/originals/6c/90/28/6c90288d7e10d46d18895f17f420a92c.gif"/>
 <!--
 ###
+
+![Axel's GitHub stats](https://github-readme-stats.vercel.app/api?username=axelzito&count_private=true&show_icons=true&hide=issues,contribs)
+
 <center>
   <table>
     <tr>
