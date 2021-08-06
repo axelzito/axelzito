@@ -13,23 +13,26 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on Ruby on Rails, HTML, JS, Git, Postgres and Oracle
-- 📫 How to reach me: axel.d3v@gmail.com
-- 💼 Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/axel-miguez/">LinkedIn</a>
-- 😄 Pronouns: he/him
 
+<hr><img width="150" align="right" src="https://i.pinimg.com/originals/6c/90/28/6c90288d7e10d46d18895f17f420a92c.gif">
+<div style="display: inline_block"><br>
+- 🔭 I’m currently working on Ruby on Rails, HTML, JS, Git, Postgres and Oracle<br>
+- 📫 How to reach me: axel.d3v@gmail.com<br>
+- 💼 Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/axel-miguez/">LinkedIn</a><br>
+- 😄 Pronouns: he/him<br>
+</div>
+<hr>
 
 
 <div>
   <a href="https://github.com/axelzito">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=axelzito&show_icons=true&theme=dracula&count_private=true&hide=issues,contribs"/>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=axelzito&layout=compact&theme=dracula&count_private=true"/>
+    <img height="190em" src="https://github-readme-stats.vercel.app/api?username=axelzito&show_icons=true&theme=dracula&count_private=true"/>
+    <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=axelzito&layout=compact&theme=dracula&langs_count=6"/>
   </a>
 </div>
 
-<img width="180" align="center" src="https://i.pinimg.com/originals/6c/90/28/6c90288d7e10d46d18895f17f420a92c.gif">
 
-##
+<hr>
 
 <div>
  
