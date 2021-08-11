@@ -1,6 +1,4 @@
-## Hi there 👋, I'm Axel
-
-
+### Hi there 👋, I'm Axel
 
 <!--
 <a href="https://www.linkedin.com/in/axel-miguez" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" target="_blank"></a>
@@ -46,6 +44,8 @@ Here are some ideas to get you started:
  ![Snake animation](https://github.com/axelzito/axelzito/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+
+<hr>
 
 <!--
 - 🌱 I’m currently learning ...
