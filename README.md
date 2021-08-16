@@ -13,9 +13,10 @@
 Here are some ideas to get you started:
 -->
 
-<hr><img width="170" align="right" src="https://i.pinimg.com/originals/6c/90/28/6c90288d7e10d46d18895f17f420a92c.gif">
+<hr>
 <div style="display: inline_block"><br>
-- 🔭 I’m currently working on Ruby on Rails, HTML, JS, Git, Postgres and Oracle<br>
+  <img width="170" align="right" vertical-align="center" src="https://i.pinimg.com/originals/6c/90/28/6c90288d7e10d46d18895f17f420a92c.gif">
+- 🔭 I’m currently working on Ruby on Rails, TDD, Rspec, Docker, AWS, HTML, JS, Git, SQL (Postgres and Oracle)<br>
 - 📫 How to reach me: axel.d3v@gmail.com<br>
 - 💼 Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/axel-miguez/">LinkedIn</a><br>
 - 😄 Pronouns: he/him<br>
