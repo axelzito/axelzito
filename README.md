@@ -18,8 +18,8 @@
 
 <div>
   <a href="https://github.com/axelzito">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=axelzito&show_icons=true&theme=dracula&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=axelzito&layout=compact&theme=dracula&langs_count=7"/>
+    <img height="180em" src="https://github-readme-stats-axels-projects-71bc80f2.vercel.app/api?username=axelzito&show_icons=true&theme=dracula&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-axels-projects-71bc80f2.vercel.app/api/top-langs/?username=axelzito&layout=compact&theme=dracula&langs_count=7&count_private=true"/>
   </a>
 </div>
 
